@@ -1,6 +1,7 @@
 # mostafa-shehata
 Showcasing projects in data analysis, machine learning, and MLOps
-![Uploading image.png…]()
+![Uploading 69287db1-a27c-41f1-ae95-86248dfe8265.png…]()
+
 
 # 👋 Hi, I'm Mostafa Shehata
 
