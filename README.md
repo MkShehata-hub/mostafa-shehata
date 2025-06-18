@@ -1,5 +1,7 @@
 # mostafa-shehata
 Showcasing projects in data analysis, machine learning, and MLOps
+![Uploading image.png…]()
+
 # 👋 Hi, I'm Mostafa Shehata
 
 🎯 **Senior Data Analyst | MLOps & MLflow Practitioner | Python, Power BI, FastAPI**  
